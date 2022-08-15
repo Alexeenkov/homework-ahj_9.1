@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/d72ic07nxt0yoofg?svg=true)](https://ci.appveyor.com/project/NSobol/anim)
+[![Build status](https://ci.appveyor.com/api/projects/status/u4vgb22r9fpdlgj0?svg=true)](https://ci.appveyor.com/project/Alexeenkov/homework-ahj-9-1)
 
-https://nsobol.github.io/anim/
+https://Alexeenkov.github.io/homework-ahj_9.1/
 
 ### Collapse
 
